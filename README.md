@@ -24,6 +24,7 @@
 
 ## Setup
 If Node.js is not already installed on your machine, you can use [this guide](https://nodejs.org/en/download/package-manager/) to install
+
 Clone this repo to your desktop and run `npm install` to install all the dependencies.
 
 ## Usage
