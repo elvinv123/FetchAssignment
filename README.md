@@ -8,12 +8,12 @@
 
 ## API Endpoints
 ### `users`
-* `POST /api/users/` - Create new user
+* `POST /api/users/` - Creates a new user
 * `DELETE /api/users/:id` - Deletes a user with given id
-* `PATCH /api/users/deduct/:id` - Deducts points from user balance given userId
+* `PATCH /api/users/deduct/:id` - Deducts points from a user balance given a userId
 * `GET /api/users/` - Returns index of all users
 * `GET /api/users/:id` - Returns user with given id
-* `GET /api/users/balance/:id` - Returns user balance with given userId
+* `GET /api/users/balance/:id` - Returns a user balance with given userId
 ### `transactions`
 * `GET /api/transactions/` - Returns list of all transactions
 * `GET /api/transactions/:id` - Returns a transaction with given id
